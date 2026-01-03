@@ -12,12 +12,6 @@ I’m documenting my daily progress, projects, and notes as I learn Python step 
 
 ---
 
-
-- Each **DayXX** folder contains code for that day’s lesson/project.  
-- **Notes/** folder includes my personal notes, tips, and explanations.  
-
----
-
 ## 🛠️ Tools & Setup
 - Language: **Python 3.13.7**  
 - IDE: **PyCharm / VS Code**  
